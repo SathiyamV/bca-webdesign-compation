@@ -1,0 +1,22 @@
+body{
+	background-image: url(https://img.freepik.com/free-photo/pink-sky-background-with-crescent-moon_53876-129048.jpg);
+	width:100%;
+	text-align:center;
+	overflow: hidden;
+}
+.title{
+	display: block;
+	margin-top:0px;
+	margin-left:0px;
+	margin-bottom:20px;
+	border: 2px solid pink;
+	background-color: skyblue;
+	
+}
+.social{
+	display:flex;
+	justify-content: space-around;
+}
+.social-fit:hover{
+	 transform: scale(0.5);
+}
